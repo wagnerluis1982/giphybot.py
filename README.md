@@ -1,0 +1,2 @@
+# giphybot.py
+Giphy Bot
