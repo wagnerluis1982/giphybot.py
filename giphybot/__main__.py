@@ -15,6 +15,7 @@ def main():
     giphybot.bot.configure_dispatcher(updater.dispatcher)
 
     updater.start_polling()
+    logging.info("Giphy Bot started")
 
 
 if __name__ == "__main__":
