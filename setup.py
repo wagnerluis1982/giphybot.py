@@ -4,8 +4,9 @@ setup(
     name="giphybot",
     version="0.0.1",
     author="Wagner Macedo",
-    url="http://gdgaracaju.com.br/",
+    url="https://github.com/wagnerluis1982/giphybot.py",
     description="Giphy Bot",
+    long_description="Giphy Bot is a bot for Telegram",
     license="GPLv3",
     entry_points={
         'console_scripts': [
